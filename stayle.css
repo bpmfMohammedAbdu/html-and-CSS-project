@@ -1,0 +1,484 @@
+.red-color{
+    color:red;
+}
+.red-box{
+    background-color:red;
+    width:200px;
+    height:200px;
+  }
+.blue-color{
+    color:blue;
+}
+.blue-box{
+    background-color:blue;
+    width:200px;
+    height:200px; 
+}
+
+.orange-color{
+    color:orange;
+}
+.orange-box{
+    background-color:orange;
+    width:200px;
+    height:200px; 
+}
+.yellow-color{
+    color:yellow;
+}
+.yellow-box{
+    background-color:yellow;
+    width:200px;
+    height:200px; 
+}
+.green-color{
+    color:green;
+}
+.green-box{
+    background-color:green;
+    width:200px;
+    height:200px; 
+}
+/*excresise*/
+.cadetblue1{
+    padding:20px;
+    background-color:cadetblue;
+    border:10px solid black;
+    width:200px;
+    height:200px; 
+    margin:0px;
+}
+.gold1{
+    background-color:gold;
+    width:200px;
+    height:200px;
+    border-top:20px solid black;
+    border-bottom:20px solid black;
+    border-right:10px solid black;
+    border-left:10px solid black;
+    margin-left:250px;
+}
+.indianred1{
+    background-color:indianred;
+    width:200px;
+    height:200px; 
+    margin-left:40px;
+    border:10px solid black;
+}
+/*index1c*/
+
+.fst-box{
+    
+    color:white;
+}
+
+#first-red-box{
+    background-color:red;
+    display:inline-block;
+    width:200px;
+    height:200px;
+    
+}
+
+.fst-box>#second-green-box{
+    background-color:green;
+    display:inline-block;
+    width:200px;
+    height:200px;
+}
+
+.fst-box>#thred-blue-box{
+    background-color:blue;
+    display:inline-block;
+    width:200px;
+    height:200px;
+}
+
+/*index2*/
+.foo-ter{
+    background-color:rgb(130, 121, 121);
+    text-align:left;
+}
+.checholat{
+    background-color:rgb(199, 164, 118);
+    
+}
+.hello{
+    background-color:rgb(112, 193, 31);
+    color:white;
+}
+.world{
+    background-color:rgb(188, 128, 50);
+    color:white;
+}
+.sky-blue{
+    background-color:skyblue;
+    width:100%;
+    height:500px;
+    color:white;
+    padding-left:9px;
+}
+.col-red{
+    color:red;
+}
+.font-s{
+    font-size:1.5rem;
+}
+.font-w{
+    font-weight:bold;
+    
+}
+.font-f{
+    font-family:cursive;
+    font-size:xx-large;
+}
+.text{
+    margin-left:90%;
+    position:absolute;
+    top:500px;
+}
+/*index2b*/
+.blue-black-box{
+    background-color:rgb(30, 30, 241);
+    border:10px solid rgb(127, 10, 236);
+    color:white;
+    height:200px;
+    width:100%;
+    padding:10px;
+    font-size:20px;
+}
+.inside-blue-black p{
+    margin-bottom:0;
+}
+
+.inside-indianred p{
+    background-color:rgb(206, 61, 61);
+    padding:10px;
+    margin-top:0px;
+    padding-bottom:10px;
+
+}
+
+
+/*index3*/
+.content{
+    background-color:#b375ed;
+    text-align:center;
+    color:white;
+    max-width:100%;   
+}
+
+h1.con-tent{
+    height:60px;
+    width:100%;
+}
+
+.cont-ent{
+    display:flex;
+    list-style:none;
+    color:white;
+    padding-right:80%;
+   
+    
+}
+.inside-white{
+    text-align:center;
+    font-weight:bold;
+}
+.in-put{
+    border-radius:50px;
+    color:white;
+}
+.content p{
+    width:100%;
+    height:45px;
+    padding-top:10px;
+    font-weight:200;
+}
+.inside{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/*index3b*/
+#green-color{
+    background-color:green;
+    width:70%;
+    height:90px;
+
+}
+#yellow-color{
+    background-color:yellow;
+    width:70%;
+    height:90px;
+
+}
+#red-color{
+    background-color:red;
+    width:70%;
+    height:90px;
+}
+#cercle-in-the-midele{
+    background-color:blue;
+    width:110px;
+    height:110px;
+    border-radius:50%;
+    position: relative;
+    left:35%;
+    top:-180px;
+}
+
+/*index4*/
+.insp-h1{
+    color:rgb(35, 35, 219);
+    text-align:center;
+    font-size:medium;
+}
+.this-h2{
+    text-align:center;
+    font-size:small;
+}
+.le-p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*index5*/
+.index5-body{
+    background-color:black;
+}
+.women-wh-avocado img{
+    display:block;
+    border:5px solid white;
+    margin-top:40px;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+.center-text{
+    text-align:center;
+    color:white;
+   
+}
+.center-text h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+}
+/*index6*/
+.blue-violet{
+    color:blueviolet;
+}
+.box>.done{
+    color:firebrick;
+}
+.box .lists{
+    color:blue;
+}
+li.done{
+    color:seagreen;
+}
+ul p.done{
+    font-size:0.5rem;
+}
+/*index6B*/
+.cercle-continer-box{
+    background-color:blue;
+    height:300px;
+    width:500px;
+   position:absolute;
+    left:200px;
+    top:200px;
+}
+.red-cercle-inside-box{
+    background-color:red;
+    position:absolute;
+    top:350px;
+    left:450px;
+    border-radius:50%;
+    width:200px;
+    height:200px;
+}
+
+
+
+/*index7*/
+.big-box{
+    background-color:red;
+    height:600px ;
+    width:900px;
+    
+}
+div>div>div>p{
+    background-color:blue;
+    height:300px;
+    width:900px;
+    position: relative;
+    top:150px;
+    bottom:150px;
+    
+}
+div.big-box>P{
+    color:white;
+    text-align:center;
+
+}
+div.big-box>div>div>p{
+    color:black;
+    text-align:center;
+
+}
+.big-box>div>div{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    background-color:white;
+    position: absolute;
+    top:50px;
+    left:350px;
+}
+/*index8*/
+.cat-box{
+    background-color:aquamarine;
+    display:inline-block;
+    width:40%;
+    float:left;
+
+    
+
+}
+.cat-box p{
+    font-size:2em;
+}
+.cat-box img{
+    float:left;
+}
+
+.dox-box{
+    background-color:coral;
+    display:inline-block;
+    width:40%; 
+    float:right;
+}
+.dox-box p{
+    font-size:2em;
+}
+.dox-box img{
+    float:left;
+}
+.fot-paragraph p{
+    clear:both;
+    background-color:blueviolet;
+    text-align:center;
+}
+/*index9*/
+.the-mediaquary{
+    background-color:blue;
+    text-align:center;
+    padding-top:auto;
+    padding-bottom:auto;
+    color:white;
+    font-size:1rem;
+}
+@media (min-width:360px)and (max-width:480px){
+    .the-mediaquary{
+        background-color: lightsalmon;
+        font-size:3rem;
+    }
+}
+@media(min-width:481px) and (max-width:1200px){
+    .the-mediaquary{
+        background-color:powderblue;
+        font-size:5rem;
+    }
+}
+@media(min-width:1201px) and (max-width:1600px){
+    .the-mediaquary{
+        background-color:lightgreen;
+        font-size:7rem;
+    }
+}
+@media(min-width:1600px){
+    .the-mediaquary{
+        background-color: seagreen;
+        font-size:10rem;
+        
+    }
+}
+/*index10*/
+.index10-body{
+    min-height:95vh;
+    display:flex;
+    flex-direction: column;
+    margin:50px 50px 0 50px;
+    font-family: "Poppins", sans-serif;
+
+}
+.blow-logo{
+    font-size:2rem;
+
+}
+h1 span{
+    color:blue;
+
+}
+.two-imgs{
+    flex:1;
+    max-width:100%;
+}
+.card{
+    width:45%;
+}
+.images-one-andtwo{
+    height:200px;
+    margin-right:50px;
+    float:left;
+}
+.devlo-name{
+    color:midnightblue;
+    text-align:right;
+}
+
+.first{
+    float:left;
+   
+}
+.second{
+    float:right;
+   
+}
+.card{
+   
+    width:45%;
+}
+
+@media(max-width:680px){
+    .blow-logo{
+        font-size:3rem;
+        text-align:center;
+    }
+    .blow-logo{
+        font-size:1rem;
+    
+    }
+    .two-imgs{
+        max-width:100%;
+    }
+    .logos {
+        width: 100px;
+      }
+    
+     
+    
+      .card {
+        width: 100%;
+        display: block;
+        margin-bottom: 30px;
+        text-align: justify;
+      }
+    
+      .card img {
+        margin-bottom: 10px;
+        width: 100%;
+        display: inline;
+        object-fit: cover;
+      }
+}
+
+
